@@ -1,0 +1,2 @@
+# -Customer-Segmentation-with-RFM-Analysis-Olist-E-commerce
+This project applies RFM(Recency, Frequency, Monetary)Analysis to the Olist e-commerce dataset to uncover customer segments and generate actionable business insights. By segmenting customers into groups such as Champions, Loyal, At-Risk, and Lost, the analysis support data-driven strategies for customer retention, re-engagement, and revenue growth.
